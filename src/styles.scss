@@ -1,0 +1,19 @@
+/* Regular */
+@font-face {
+  font-family: Comfortaa Regular;
+  src: url("./assets/fonts/Comfortaa-Regular.ttf");
+}
+
+body {
+  font-family: "Comfortaa Regular", sans-serif;
+}
+
+h1 {
+  color: #4fb2b8;
+  font-size: 26px;
+
+  &:hover {
+    color: #9fc554;
+    cursor: pointer;
+  }
+}
